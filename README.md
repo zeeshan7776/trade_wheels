@@ -49,6 +49,7 @@ The application should now be running on http://localhost:3000/.
 Contact
 For any queries, please contact us at engr.zeeshan.nadir@gmail.com.
 
-Screenshots
+## Screenshots
 
-![localhost_3000_ (1)](https://github.com/zeeshan7776/trade_wheels/assets/139481886/4a2c63c0-17da-4b30-8487-011c7060dc05)
+![localhost_3000_ (1)](https://github.com/zeeshan7776/trade_wheels/assets/139481886/5f56a304-f223-4d35-aff3-c21e65bcb447)
+
