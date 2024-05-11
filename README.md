@@ -51,5 +51,14 @@ For any queries, please contact us at engr.zeeshan.nadir@gmail.com.
 
 ## Screenshots
 
-![localhost_3000_ (1)](https://github.com/zeeshan7776/trade_wheels/assets/139481886/5f56a304-f223-4d35-aff3-c21e65bcb447)
+- https://github.com/zeeshan7776/trade_wheels/assets/139481886/5f56a304-f223-4d35-aff3-c21e65bcb447
+- https://github.com/zeeshan7776/trade_wheels/assets/139481886/8f287f86-0bcb-46ab-8d70-9950c0fab668
+- https://github.com/zeeshan7776/trade_wheels/assets/139481886/cf9ed6c2-2958-4e52-b671-877289d47729
+- https://github.com/zeeshan7776/trade_wheels/assets/139481886/f7fa7716-8aca-449e-815f-9666b23a867e
+- https://github.com/zeeshan7776/trade_wheels/assets/139481886/978dbcfb-d678-4e85-8648-73a0ce668020
+
+
+
+
+
 
