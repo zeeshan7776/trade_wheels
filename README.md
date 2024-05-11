@@ -56,3 +56,5 @@ b. https://github.com/zeeshan7776/trade_wheels/assets/139481886/8f287f86-0bcb-46
 c. https://github.com/zeeshan7776/trade_wheels/assets/139481886/cf9ed6c2-2958-4e52-b671-877289d47729
 d. https://github.com/zeeshan7776/trade_wheels/assets/139481886/f7fa7716-8aca-449e-815f-9666b23a867e
 e. https://github.com/zeeshan7776/trade_wheels/assets/139481886/978dbcfb-d678-4e85-8648-73a0ce668020
+
+Place the above urls in the url tab to see the images.
