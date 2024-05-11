@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/trade_wheels/static/css/main.3b3f6e59.css",
+    "main.js": "/trade_wheels/static/js/main.d490973f.js",
+    "static/js/23.8c50872e.chunk.js": "/trade_wheels/static/js/23.8c50872e.chunk.js",
+    "static/js/81.602e254b.chunk.js": "/trade_wheels/static/js/81.602e254b.chunk.js",
+    "static/js/787.bf44d766.chunk.js": "/trade_wheels/static/js/787.bf44d766.chunk.js",
+    "static/media/Corolla.png": "/trade_wheels/static/media/Corolla.efba430b52566462f26b.png",
+    "static/media/Alto-SectionA.png": "/trade_wheels/static/media/Alto-SectionA.f60061acec0d4c12bfc3.png",
+    "static/media/Prado.png": "/trade_wheels/static/media/Prado.0121ae62f126c697bc9b.png",
+    "static/media/bmw.png": "/trade_wheels/static/media/bmw.77f44ab28c03b0e8e555.png",
+    "static/media/Weagon-R.png": "/trade_wheels/static/media/Weagon-R.a46c810a2fa716545406.png",
+    "static/media/Swift-SectionA.png": "/trade_wheels/static/media/Swift-SectionA.a1fd1c8ea2e60ba846f5.png",
+    "static/media/Sportage-SectionA-Modal.png": "/trade_wheels/static/media/Sportage-SectionA-Modal.f4f7b8ce2432627048c0.png",
+    "static/media/Hilux.png": "/trade_wheels/static/media/Hilux.80f0e37e818704beacd6.png",
+    "static/media/Logo02.svg": "/trade_wheels/static/media/Logo02.7f244b651f967b9c6842a1f2c2b99285.svg",
+    "index.html": "/trade_wheels/index.html",
+    "main.3b3f6e59.css.map": "/trade_wheels/static/css/main.3b3f6e59.css.map",
+    "main.d490973f.js.map": "/trade_wheels/static/js/main.d490973f.js.map",
+    "23.8c50872e.chunk.js.map": "/trade_wheels/static/js/23.8c50872e.chunk.js.map",
+    "81.602e254b.chunk.js.map": "/trade_wheels/static/js/81.602e254b.chunk.js.map",
+    "787.bf44d766.chunk.js.map": "/trade_wheels/static/js/787.bf44d766.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b3f6e59.css",
+    "static/js/main.d490973f.js"
+  ]
+}
