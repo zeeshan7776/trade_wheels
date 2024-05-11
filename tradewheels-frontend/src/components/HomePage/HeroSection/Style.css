@@ -1,0 +1,89 @@
+/* .image{
+    margin-top: 10px;
+    float: inline-start;
+    margin-left: 55%;
+    opacity: 100%;
+    animation-name: image;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease;
+} */
+
+/* .mainText1{
+    animation-name: text;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease;
+} */
+
+/* .mainText2{
+    animation-name: text;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease;
+    position: relative;
+}
+
+.mainText2::after {
+    content: "";
+    position: absolute;
+    background-color: rgb(161 161 170);
+    width: 100%;
+    height: 2px;
+    animation-name: underline2;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+} */
+
+
+/* 
+@keyframes image {
+    0% {
+        margin-left: 0;
+        opacity: 0%;
+        rotate: 0deg;
+    }
+    25% {
+        opacity: 0%;
+    }
+    50% {
+        opacity: 50%;
+    }
+    75% {
+        opacity: 75%;
+        rotate: 360deg;
+    }
+    100% {
+        margin-left: 55%;
+        opacity: 100%;
+        rotate: 360deg;
+    }
+} */
+
+/* @keyframes text {
+    0% {
+        opacity: 0%;
+        margin-left: 0;
+    }
+    100% {
+        opacity: 100%;
+        margin-left: 44px;
+    }
+}
+
+
+@keyframes underline2 {
+    0% {
+        width: 0;
+        left: 0;
+    }
+    50% {
+        width: 100%;
+        left: 0;
+    }
+    100% {
+        width: 0;
+        left: 100%;
+    }
+} */
+
